@@ -10,4 +10,5 @@
 3. cd client
 4. npm install
 5. cd ...
-5. npm run dev     (using concurrently to run script on both server and client)
+6. npm run dev     (using concurrently to run script on both server and client)
+7. http://localhost:5173 

@@ -2,8 +2,10 @@
 
 1. npm install
 2. Add config.env in root and environmentvariables: 
+
     NODE_ENV=development
     PORT=5000
+    
 3. cd client
 4. npm install
 5. cd ...

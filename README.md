@@ -1,6 +1,6 @@
 # MERN setup
 
-npm instal
+npm install
 
 cd client
 

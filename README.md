@@ -1,7 +1,7 @@
 # MERN setup
 
 1. npm install
-2. Add config.env in root and environmentvariables: 
+2. Add config.env in root and inside file: 
 
     NODE_ENV=development
     
